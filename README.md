@@ -1,5 +1,7 @@
 # Projeto Landing Page - DNC
-Este é o projeto de desenvolvimento do módulo base do curso de Desenvolvedor Front-end da Escola DNC.
+Este é um modelo de landing page para uma empresa de projetos de arquitetura.
+Ele contém um menu superior, um menu informativo, uma seção
+principal e um formulário.
 
 Link para visualização do site:
 https://landing-page-dnc-ramon-miller.netlify.app/
